@@ -1,1 +1,1 @@
-# Refresher
+# JS Minesweeper Game
